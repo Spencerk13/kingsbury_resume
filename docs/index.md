@@ -18,14 +18,11 @@ A Computer Engineer at BYU-Idaho
 
 `2020-2024`
 __BYU-Idaho__, Rexburg, ID
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- 3.9 GPA
+- 2 years of python
+- 1 semester of Javascript and Html
+- 1 semester of C++
+- 1 year of Java
 
 ## Related Experience
 
