@@ -7,7 +7,7 @@ A Computer Engineer at BYU-Idaho
 
 <div id="webaddress">
 <a href="spencerk13@byui.edu">spencerk13@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://byuidatascience.github.io/development.html">Computer Engineer Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
@@ -23,6 +23,7 @@ __BYU-Idaho__, Rexburg, ID
 - 1 semester of Javascript and Html
 - 1 semester of C++
 - 1 year of Java
+- 1 year of Electric Circuit Analysis
 
 ## Related Experience
 
