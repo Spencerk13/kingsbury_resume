@@ -6,7 +6,7 @@ title: Spencer Kingsbury's Resume
 A Computer Engineer at BYU-Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="spencerk13@byui.edu">spencerk13@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -16,8 +16,8 @@ A Computer Engineer at BYU-Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2020-2024`
+__BYU-Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
@@ -73,12 +73,9 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`September 2021 - December 2021`
+__Electric Engineer Teacher's Assistant__, BYU-Idahp
 
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
