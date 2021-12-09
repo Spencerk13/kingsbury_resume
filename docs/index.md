@@ -26,7 +26,7 @@ __BYU-Idaho__, Rexburg, ID
 
 `September 2021 - December 2021`
 __Electric Engineer Teacher's Assistant__, BYU-Idaho
-
+- Taught an electric circuit lab to students
 
 
 
