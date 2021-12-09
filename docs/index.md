@@ -21,12 +21,13 @@ __BYU-Idaho__, Rexburg, ID
 - 1 semester of C++
 - 1 year of Java
 - 1 year of Electric Circuit Analysis
+- Have Knowledge With Arduino Boards
 
 ## Related Experience
 
 `September 2021 - December 2021`
 __Electric Engineer Teacher's Assistant__, BYU-Idaho
-- Taught an electric circuit lab to students
+- Taught an electric circuit lab to students 
 
 
 
