@@ -29,5 +29,7 @@ __BYU-Idaho__, Rexburg, ID
 __Electric Engineer Teacher's Assistant__, BYU-Idaho
 - Taught an electric circuit lab to students 
 
+<!--- You could use your TA job as a way to describe your leadership and management skills -->
+
 
 
